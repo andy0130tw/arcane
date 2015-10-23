@@ -2,6 +2,8 @@
 import os
 import sys
 
+print('Haha I am not a hacker!')
+
 if __name__ == "__main__":
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "core.settings")
 
